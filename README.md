@@ -1,4 +1,4 @@
-## Hi there 👋
+[## Hi there 👋](https://i.postimg.cc/j2bR38kj/Untitled12-20250803024910.png)
 
 <!--
 **princeoftrash/princeoftrash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
