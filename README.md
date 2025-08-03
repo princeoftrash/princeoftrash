@@ -1,4 +1,4 @@
-[## Hi there 👋](https://i.postimg.cc/j2bR38kj/Untitled12-20250803024910.png)
+<img width="375" height="375" alt="Image" src="https://github.com/user-attachments/assets/54efbc27-732a-4cc2-ada1-2d519ace4048" />
 
 <!--
 **princeoftrash/princeoftrash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
