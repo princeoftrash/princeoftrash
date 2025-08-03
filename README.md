@@ -1,9 +1,7 @@
 
- <img width="375" height="375" alt="Image" src="https://github.com/user-attachments/assets/54efbc27-732a-4cc2-ada1-2d519ace4048" />
+<img width="794" height="444" alt="sunday" src="https://github.com/user-attachments/assets/72163697-5143-4435-a8fd-b0178be04ddf" />
 
-<img width="375" height="375" alt="Untitled12_20250803024828" src="https://github.com/user-attachments/assets/3f2fc113-6cc2-4dfe-b9c1-832efbbce1bb" />
 
-<img width="375" height="375" alt="Untitled12_20250803024828" src="https://github.com/user-attachments/assets/b1820b92-b05a-45e8-b975-a709966300ad" />
 
 <!--
 **princeoftrash/princeoftrash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
