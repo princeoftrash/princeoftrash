@@ -1,5 +1,7 @@
  <img width="375" height="375" alt="Image" src="https://github.com/user-attachments/assets/54efbc27-732a-4cc2-ada1-2d519ace4048" />
 
+<img width="375" height="375" alt="Untitled12_20250803024828" src="https://github.com/user-attachments/assets/3f2fc113-6cc2-4dfe-b9c1-832efbbce1bb" />
+
 <!--
 **princeoftrash/princeoftrash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
